@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arkadi Koifman</h1>
 <h3 align="center">A Passionate Self Taught Frontend Developer</h3>
 
-![Group 6](https://github.com/ArkadiK94/ArkadiK94/assets/76536506/378b22a3-61ac-43c8-b1ab-e9a4c5a458bb)
+![Group 6(2)](https://github.com/ArkadiK94/ArkadiK94/assets/76536506/198b7e5f-b994-416d-8f84-966e7fe36ee3)
+
 
 <h3 align="center">My portfolio Link: <a href="https://arkadik94.github.io/">https://arkadik94.github.io/</a></h3>
 
