@@ -13,5 +13,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arkadik94&show_icons=true&locale=en" alt="arkadik94" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArkadiK94&title=Commits,Issues,PullRequest,Reviews,Experience&no-bg=true&margin-w=15&theme=monokai&column=5" alt="github-profile-trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArkadiK94&title=Commits,Issues,PullRequest,Reviews,Experience&no-bg=true&margin-w=15&theme=dark_lover&column=5" alt="github-profile-trophy" />
 </p>
